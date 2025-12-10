@@ -1,0 +1,7 @@
+{
+  "name": "ZenParticles 3D",
+  "description": "Interactive 3D particle playground controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
